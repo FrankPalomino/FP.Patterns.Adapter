@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Adapter.Exercic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Adapter.Exercice2", "..\FP.Patterns.Adapter.Exercice2\FP.Patterns.Adapter.Exercice2.csproj", "{62846E2B-FF01-41DF-9942-3E5F7BD8D950}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Adapter.Exercice3", "..\FP.Patterns.Adapter.Exercice3\FP.Patterns.Adapter.Exercice3.csproj", "{47C7499B-90F6-40E1-AF53-18B7CE441D8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Adapter.Exercice3", "..\FP.Patterns.Adapter.Exercice3\FP.Patterns.Adapter.Exercice3.csproj", "{47C7499B-90F6-40E1-AF53-18B7CE441D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Adapter.Exercice4", "..\FP.Patterns.Adapter.Exercice4\FP.Patterns.Adapter.Exercice4.csproj", "{53384153-15FA-41CA-8C3D-3FAE090AE06D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{47C7499B-90F6-40E1-AF53-18B7CE441D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47C7499B-90F6-40E1-AF53-18B7CE441D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47C7499B-90F6-40E1-AF53-18B7CE441D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53384153-15FA-41CA-8C3D-3FAE090AE06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53384153-15FA-41CA-8C3D-3FAE090AE06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53384153-15FA-41CA-8C3D-3FAE090AE06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53384153-15FA-41CA-8C3D-3FAE090AE06D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
